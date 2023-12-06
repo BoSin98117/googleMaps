@@ -1,3 +1,5 @@
+//
+
 export interface Mappable {
     location: {
         lat: number
